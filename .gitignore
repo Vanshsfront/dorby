@@ -1,0 +1,4 @@
+# Internal audit source material — not for the public repo
+auditbot-export*.md
+*.pdf
+.DS_Store
